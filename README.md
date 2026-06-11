@@ -92,5 +92,4 @@ The analysis identified overtime, employee satisfaction, and department-specific
 ## Author
 
 Sandesh Ghadage
-B.Sc. Computer Science
-Aspiring Data Analyst
+
