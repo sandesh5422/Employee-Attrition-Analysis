@@ -77,7 +77,9 @@ Office-based employees experienced the highest attrition compared to Hybrid and 
 
 ## Dashboard Preview
 
-(Add dashboard screenshot here after uploading Dashboard.png)
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
 
 ---
 
